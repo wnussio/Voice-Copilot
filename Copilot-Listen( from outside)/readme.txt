@@ -98,7 +98,7 @@ CUDA jest dostępne dla CTranslate2.
 Przejdź do katalogu projektu:
 
 ```powershell
-cd C:\Users\marci\Desktop\scripter
+cd C:\...\Desktop\scripter
 ```
 
 Uruchom:
@@ -228,7 +228,7 @@ Plik jest zapisywany na bieżąco, więc tekst nie czeka do zakończenia całej 
 W obecnej konfiguracji biblioteki znajdują się w:
 
 ```text
-C:\Users\marci\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\nvidia\
+C:\...\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\nvidia\
 ```
 
 W przypadku przeniesienia projektu na inny komputer ścieżka może wymagać zmiany.
