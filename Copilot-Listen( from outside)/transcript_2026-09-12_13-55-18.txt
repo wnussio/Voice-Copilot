@@ -1,0 +1,24 @@
+[13:55:26]
+EN: install. Get from me.
+PL: zainstalować. Odejdź ode mnie.
+
+[13:55:34]
+EN: and then let's see if it's able to do it now that I gave it the permissions. All right, so I just got it installed. I'm not gonna go through the whole process and the next thing that I do recommend that you do
+PL: a potem zobaczmy, czy jest w stanie to zrobić teraz, gdy dałem mu uprawnienia. Dobra, właśnie go zainstalowałem. Nie będę omawiał całego procesu i kolejnej rzeczy, którą polecam
+
+[13:55:35]
+EN: is create a GitHub account.
+PL: to utworzenie konta GitHub.
+
+[13:55:44]
+EN: The reason why we want to make a GitHub account is we're going to connect Claude to GitHub so that it's able to actually create new repositories for us and see what we can do.
+PL: Powodem, dla którego chcemy założyć konto na GitHubie, jest to, że połączymy Claude z GitHubem, aby mógł faktycznie tworzyć dla nas nowe repozytoria i zobaczyć, co możemy zrobić.
+
+[13:55:45]
+EN: save all of the code that we're writing.
+PL: zapisz cały kod, który piszemy.
+
+[13:55:54]
+EN: from the very beginning so that we don't lose anything. Now GitHub is essentially a website or kind of a remote location where we can store different.
+PL: od samego początku, abyśmy nic nie stracili. Teraz GitHub to w zasadzie strona internetowa lub rodzaj zdalnej lokalizacji, w której możemy przechowywać różne rzeczy.
+

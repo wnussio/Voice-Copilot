@@ -1,0 +1,60 @@
+[13:54:30]
+EN: Cześć!
+PL: Hi!
+
+[13:54:35]
+EN: Ok, teraz próbę mikrofonu.
+PL: Ok, now the microphone test.
+
+[13:54:39]
+EN: i czy to będzie takie jak ma być no i klasa
+PL: [Nie udało się przetłumaczyć]
+
+[13:54:48]
+EN: A, ja chcę odpalić dwa na raz.
+PL: Oh, I want to fire two at once.
+
+[13:54:59]
+EN: Nie mogę tak zrobić.
+PL: I can't do that.
+
+[13:55:04]
+EN: chyba nowy terminal bym musiał
+PL: I would probably need a new terminal
+
+[13:55:09]
+EN: Patrzymy sobie tak...
+PL: We look at each other like this...
+
+[13:55:12]
+EN: do smrejny
+PL: to smrejna
+
+[13:55:15]
+EN: Dzień dobry
+PL: Good morning
+
+[13:55:17]
+EN: Spróbujemy.
+PL: We'll try.
+
+[13:55:29]
+EN: No i fajnie, teraz sobie puszczę to i mogę chyba komentować czy to się uda.
+PL: Well, that's cool, now I'll play it and I guess I can comment on whether it will work.
+
+[13:55:31]
+EN: Ciekawa sprawa w sumie.
+PL: Interesting thing, actually.
+
+[13:55:41]
+EN: No i potem zobaczymy, robi GitHub account i generalnie to...
+PL: And then we'll see, he creates a GitHub account and generally this...
+
+[13:55:43]
+EN: Chyba wszystko działa.
+PL: Everything seems to be working.
+
+[13:55:52]
+EN: No i zapiszę cały kod, który napisaliśmy i jest zajebiście.
+PL: So I'll save all the code we wrote and it's awesome.
+
